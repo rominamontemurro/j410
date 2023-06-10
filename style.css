@@ -317,7 +317,7 @@ p {
   
 .cycle-next { 
 right: 0;
-background: url(img/arrowright.png) 50% 50% no-repeat;
+background: url(img/icons8-arrow-right-80.png) 50% 50% no-repeat;
 }
 
 .cycle-prev:hover, .cycle-next:hover { 
