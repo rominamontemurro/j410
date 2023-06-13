@@ -128,7 +128,7 @@ a.text:hover, a.text:active {
 	text-decoration: none;
 }
 .row a:hover{
-	    background-color: #f0f;
+	    background-color: ##FA8072;
     color: initial;
 	    text-decoration: none;
     transition: all 0.3s ease-in 0s;
