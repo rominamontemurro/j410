@@ -415,7 +415,7 @@ footer a:hover {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: red; /* Set a background color */
+  background-color: lightred; /* Set a background color */
   color: black; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
@@ -425,7 +425,7 @@ footer a:hover {
 }
 
 #myBtn:hover {
-  background-color: red;
+  background-color: lightred;
   opacity: 0.75;   
 }
 
