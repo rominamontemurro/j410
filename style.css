@@ -362,7 +362,7 @@ footer {
 footer a {
 	text-decoration: none; /*(nullifies underline)*/
 	color: #000000;
-	font-family: 'Crushed', cursive;
+	font-family: 'Thasadith', sans-serif;
 }
 /*(link color when moused over)*/
 footer a:hover {
