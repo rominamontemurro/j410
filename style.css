@@ -395,15 +395,15 @@ footer a:hover {
 
 /*--------------background colors----------*/
 .whiteBG {
-	background-color: yellow;
+	background-color: #FFEBCD;
 }
 
 .blueBG {
-	background: -webkit-linear-gradient(left,black,grey,white);
+	background: -webkit-linear-gradient(left,lightgreen,white,lightred);
 }
 
 .orangeBG {
-	background: -webkit-linear-gradient(left,purple,white,gold);
+	background: -webkit-linear-gradient(left,lightgreen,white,lightred);
 }
 
 /*----------------back to top button-----------------*/
