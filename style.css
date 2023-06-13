@@ -415,17 +415,17 @@ footer a:hover {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: lightred; /* Set a background color */
+  background-color: red; /* Set a background color */
   color: black; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Thasadith', sans-serif;
   font-size: 10px; /* Increase font size */
 }
 
 #myBtn:hover {
-  background-color: darkblue;
+  background-color: red;
   opacity: 0.75;   
 }
 
